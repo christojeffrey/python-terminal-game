@@ -1,0 +1,5 @@
+id;id_peminjam;id_gadget;tanggal_peminjaman;jumlah;is_returned
+1;joko;G1;28/04/2021;10;True
+2;joko;G1;28/04/2021;7;True
+3;joko;G1;28/04/2021;4;True
+4;joko;G1;29/04/2021;5;False
